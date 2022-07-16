@@ -1,0 +1,3 @@
+class DraggedSidebarWidget extends StatefulWidget{
+
+}
