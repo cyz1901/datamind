@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import '../../route/pagers.dart';
+import '../../routes/pagers.dart';
 import 'home_logic.dart';
 
 class HomePage extends StatelessWidget {

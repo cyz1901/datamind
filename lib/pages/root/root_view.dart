@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import '../../route/pagers.dart';
+import '../../routes/pagers.dart';
 import 'root_logic.dart';
 
 class RootPage extends StatelessWidget {

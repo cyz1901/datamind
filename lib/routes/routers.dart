@@ -20,9 +20,9 @@ class Routers {
 
   static final List<GetPage> getPreferencesPages = [
     GetPage(
-        name: Pagers.rootPage,
-        page: () => RootPage(),
-        bindings: [RootBinding()],
+        name: Pagers.preferencesRootPage,
+        page: () => PreferencesRootPage(),
+        bindings: [PreferencesRootBinding()],
         preventDuplicates: true,
         participatesInRootNavigator: true,
         children: [
